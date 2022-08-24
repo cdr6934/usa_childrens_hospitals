@@ -1,2 +1,0 @@
-# USA Childrens Hospitals
-Following dataset has been aggregated from among a number of online sources including Wikipedia. There is still more information that has to be added but is in a shape that can provide enough insight.
